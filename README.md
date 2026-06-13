@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-reflejo-de-tu-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for El reflejo de tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-reflejo-de-tu-alma/) |
+| **Get License** | [License this song: El reflejo de tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-reflejo-de-tu-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, te busco cuando cae la madrugada
+> Con ese porte que me deja sin palabras
+> Tus ojos brillan más que luces de la disco
+> Tenerte cerca se ha vuelto mi mejor vicio
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
