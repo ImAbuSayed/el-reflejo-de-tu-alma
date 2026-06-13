@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El reflejo de tu alma
+
+This log tracks the cryptographic history and versioning for the song **El reflejo de tu alma** (el-reflejo-de-tu-alma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T19:36:00.672315 | `v1` | `83a1fa352008f93d7b3e50aaa4f849421891b2b08c198555ecd3ada372c7427c` | `dddd484da11886b51ab946307ab5b8ac8bdca809e9ffef0eaa3e6190bf84be42` | `2026-06-13_el-reflejo-de-tu-alma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

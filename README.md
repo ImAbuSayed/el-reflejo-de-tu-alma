@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-reflejo-de-tu-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El reflejo de tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-reflejo-de-tu-alma/) |
+| **Get License** | [Official Music Licensing for El reflejo de tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-reflejo-de-tu-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `83a1fa352008f93d7b3e50aaa4f849421891b2b08c198555ecd3ada372c7427c` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
